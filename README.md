@@ -1,6 +1,6 @@
 ### Olá a todos :computer:
 
-Eu sou Wendhel Thayllor, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Wendhel Thayllor, sou um Programador, atualmente estou desenvolvendo projetos com as seguintes tecnologias:
 <br>
 <br>
 
